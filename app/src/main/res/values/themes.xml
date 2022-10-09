@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.MyComposeDemo" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:statusBarColor">@color/purple_200</item>
+
+    </style>
+
+
+    <!-- Allows us to override platform level specific attributes in their
+      respective values-vXX folder. -->
+
+</resources>
